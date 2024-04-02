@@ -1,4 +1,3 @@
-### Hello there, I am Yuean Wang
-<!--
+### Hello there, I am Yuean Wang.
 
-Student at the University od Toronto
+Student at the University od Toronto, major in mathematics and statistics.
