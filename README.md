@@ -1,1 +1,1 @@
-### Hello there, I am Yuean Wang.
+### Hello there
